@@ -22,7 +22,7 @@ This GitHub reflects the intersection of my product practice and hands-on protot
 
 ---
 
-## 🛠 Skills & Areas of Focus
+##  Skills & Areas of Focus
 - Product Strategy & Roadmapping  
 - User Research & UX Thinking  
 - AI / Generative Models & Prompt Engineering  
