@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Janaki Balachandran 👋
 
-<!--
-**Janakicodes/Janakicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager | Builder | Thinker
 
-Here are some ideas to get you started:
+I’m passionate about transforming ideas into meaningful products that solve real problems , especially where **AI, user experience, and human-centered design intersect**. I write and speak about mental wellness, generative AI, leadership, and product execution while building tools that help teams and users work better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I care about
+- **Product Strategy & Delivery:** Turning ambiguous problems into structured solutions, aligning stakeholders, and shipping outcomes with impact. :contentReference[oaicite:1]{index=1}  
+- **AI for People:** Exploring how generative AI can enhance productivity, emotional well-being, and workflows. :contentReference[oaicite:2]{index=2}  
+- **Human Experience:** Understanding how people interact with technology and shaping experiences that feel intuitive and meaningful. :contentReference[oaicite:3]{index=3}
+
+---
+
+## What I’m building
+This GitHub reflects the intersection of my product practice and hands-on prototyping. Expect to see:
+- **Tools that embody product principles** — small, focused, and delightful  
+- **AI-driven helpers** built with a human-first lens  
+- **Documentation and case studies** on product thinking  
+- **Samples of workflows and automation** I use day-to-day
+
+---
+
+## 🛠 Skills & Areas of Focus
+- Product Strategy & Roadmapping  
+- User Research & UX Thinking  
+- AI / Generative Models & Prompt Engineering  
+- Analytics & Data-Informed Decision Making  
+- Prototyping & Rapid Experimentation  
+- Cross-Functional Collaboration & Leadership :contentReference[oaicite:4]{index=4}
+
+---
+
+## Currently learning
+- Advanced prompt orchestration & AI safety  
+- Product metrics frameworks that scale with AI features  
+- Building public design systems
+
+---
+
+## 📫 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/janakibalachandran/  
