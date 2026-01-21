@@ -7,9 +7,9 @@ I’m passionate about transforming ideas into meaningful products that solve re
 ---
 
 ## What I care about
-- **Product Strategy & Delivery:** Turning ambiguous problems into structured solutions, aligning stakeholders, and shipping outcomes with impact. :contentReference[oaicite:1]{index=1}  
-- **AI for People:** Exploring how generative AI can enhance productivity, emotional well-being, and workflows. :contentReference[oaicite:2]{index=2}  
-- **Human Experience:** Understanding how people interact with technology and shaping experiences that feel intuitive and meaningful. :contentReference[oaicite:3]{index=3}
+- **Product Strategy & Delivery:** Turning ambiguous problems into structured solutions, aligning stakeholders, and shipping outcomes with impact.  
+- **AI for People:** Exploring how generative AI can enhance productivity, emotional well-being, and workflows. 
+- **Human Experience:** Understanding how people interact with technology and shaping experiences that feel intuitive and meaningful. 
 
 ---
 
